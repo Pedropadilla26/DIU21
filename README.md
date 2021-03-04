@@ -1,5 +1,5 @@
 # DIU21
-Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
+Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: ) 
 
 Grupo: DIU1.ToxicidadFuera.  Curso: 2020/21 
 Updated: 04/03/2021
